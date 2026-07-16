@@ -1,0 +1,2 @@
+# One-Pass-Linked-List-Node-Removal-Using-the-Fast-Slow-Pointer-Technique
+This solution efficiently removes the nth node from the end of a singly linked list using the fast and slow pointer technique. A dummy node is introduced to handle edge cases, including deleting the head node, without additional conditions. The algorithm completes the task in a single traversal, achieving O(n) time complexity and O(1) extra space.
